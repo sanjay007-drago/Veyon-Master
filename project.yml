@@ -1,0 +1,19 @@
+project:
+  name: Veyon
+  version: 4.99.0
+  copyright: 2004-2025
+  author: Tobias Junghans
+  contact: Tobias Junghans <tobydox@veyon.io>
+  contributors:
+    - Tobias Junghans <tobydox@veyon.io>
+  description: Virtual Eye On Networks - OpenSource classroom management
+  license: GPL-2.0
+  category: Education
+  homepage: https://veyon.io
+  repository:
+    type: git
+    url: https://github.com/veyon/veyon.git
+  bugs:
+    url: https://github.com/veyon/veyon/issues
+  documentation:
+    url: https://docs.veyon.io
